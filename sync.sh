@@ -28,6 +28,6 @@
 
 # require_clean_work_tree()
 
-git co master
+git checkout master
 git fetch upstream
 git merge upstream/master
